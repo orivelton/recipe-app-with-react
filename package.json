@@ -2,6 +2,7 @@
   "name": "recipe-app",
   "version": "0.1.0",
   "author": "Orivelton Cesar",
+  "homepage" : "https://orivelton.github.io/recipe-app-with-react/",
   "private": true,
   "dependencies": {
     "node-sass": "^4.13.0",
